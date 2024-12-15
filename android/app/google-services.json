@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "980405500371",
+    "project_id": "instagram-clone-87697",
+    "storage_bucket": "instagram-clone-87697.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980405500371:android:4bae6a4d8b2b2cabab9726",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7QwbROzseALjVbhF729cyJr0S7G1f-Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980405500371:android:5a3df47665ba3ff9ab9726",
+        "android_client_info": {
+          "package_name": "com.example.expence_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7QwbROzseALjVbhF729cyJr0S7G1f-Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980405500371:android:3fee8d12e8076a8dab9726",
+        "android_client_info": {
+          "package_name": "com.example.full_stack_instegram_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7QwbROzseALjVbhF729cyJr0S7G1f-Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
